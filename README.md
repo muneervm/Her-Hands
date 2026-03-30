@@ -44,13 +44,12 @@ A Flutter-based service platform designed to connect users with **verified femal
   <img src="screenshots/herhands welcome.jpeg" width="250"/>
   <img src="screenshots/herhands login.jpeg" width="250"/>
   <img src="screenshots/herhands register.jpeg" width="250"/>
-  <img src="screenshots/herhands home.jpeg" width="250"/>
 
 </p>
 
 <p align="center">
+    <img src="screenshots/herhands home.jpeg" width="250"/>
   <img src="screenshots/herhands services.jpeg" width="250"/>
-  <img src="screenshots/herhands recruit.jpeg" width="250"/>
     <img src="screenshots/herhands profile.jpeg" width="250"/>
 
 </p>
