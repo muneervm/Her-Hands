@@ -38,7 +38,7 @@ A Flutter-based service platform designed to connect users with **verified femal
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 <p align="center">
   <img src="screenshots/her hands welcome.jpeg" width="250"/>
