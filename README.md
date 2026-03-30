@@ -1,16 +1,62 @@
-# service_application
+#  Her-Hands – Women Service Platform (Flutter)
 
-A new Flutter project.
+A Flutter-based service platform designed to connect users with **verified female professionals** for beauty and home services.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+##  Features
 
-A few resources to get you started if this is your first Flutter project:
+* User authentication (Login / Signup)
+* Browse available services
+* Connect with verified professionals
+* Book services easily
+* Clean and user-friendly UI
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+##  Tech Stack
+
+* Flutter
+* Dart
+
+---
+
+##  Architecture
+
+* Modular project structure
+* Separation of UI and business logic
+* Scalable and maintainable design
+
+---
+
+## Key Highlights
+
+* Built a real-world service-based application
+* Focused on user experience and accessibility
+* Designed reusable UI components
+* Structured code for scalability
+
+---
+
+## 📸 Screenshots
+
+<p align="center">
+  <img src="screenshots/her hands welcome.jpeg" width="250"/>
+  <img src="screenshots/her hands login.jpeg" width="250"/>
+  <img src="screenshots/her hands register.jpeg" width="250"/>
+  <img src="screenshots/her hands home.jpeg" width="250"/>
+
+</p>
+
+<p align="center">
+  <img src="screenshots/her hands services.jpeg" width="250"/>
+  <img src="screenshots/her hands recruit.jpeg" width="250"/>
+    <img src="screenshots/her hands profile.jpeg" width="250"/>
+
+</p>
+
+---
+
+## 🔗 GitHub Repository
+
+https://github.com/muneervm/Her-Hands
